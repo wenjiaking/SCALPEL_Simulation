@@ -1,0 +1,11 @@
+Step 0 of SCALPEL
+
+SUMMARY
+We found 1 raw data file, which had 1000 frames. Thus 1 processed data file with 1000 frames was produced. The video has a height of 200 and a width of 200. The minimum and maximum values of the raw data were -0.5 and 2.29, respectively.
+
+ARGUMENTS USED
+Raw data location: scratch/wenjia/simulation_SSNR/simResults/data/finalY/rep1_SNR0_2/
+Raw data file type: R
+Video height: 200
+Process raw data files separately? Yes
+Output files location: scratch/wenjia/simulation_SSNR/simResults/scalpelAdj/rep1_SNR0_2/
