@@ -1,0 +1,12 @@
+Step 3 of SCALPEL
+
+SUMMARY
+We began with 130 dictionary elements, and all of these were included in the sparse group lasso model. The sparse group lasso was fit with lambda=0.2918 and alpha=0.9, and there were 130 neurons with non-zero temporal components (i.e., the neuron was estimated to be active in at least one frame).
+
+ARGUMENTS USED
+Method to choose lambda: Training/validation set
+User-supplied lambda value: N/A
+Value of alpha: 0.9
+Minimum cluster size for dictionary element to be included in the sparse group lasso: 1
+Should spatial components on the border of the video be included in the sparse group lasso? Yes
+Indices of dictionary elements to exclude from the sparse group lasso: N/A

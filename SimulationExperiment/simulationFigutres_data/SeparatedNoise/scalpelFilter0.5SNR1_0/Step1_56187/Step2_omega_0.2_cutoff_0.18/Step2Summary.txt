@@ -1,0 +1,12 @@
+Step 2 of SCALPEL
+
+SUMMARY
+We performed clustering on the 4723 preliminary dictionary elements, which resulted in 130 dictionary elements.
+
+ARGUMENTS USED
+Cutoff for dendrogram: 0.18
+Dissimilarity metric weight: 0.2
+Maximum number of preliminary dictionary elements to cluster at once: 3000
+
+ADVANCED USER INFO
+There were 85 overlapping sets of components with the largest set containing 333 preliminary dictionary elements. The clustering shortcut for large sets of overlapping components was used. There were 0 overlapping sets for which the shortcut was used.
