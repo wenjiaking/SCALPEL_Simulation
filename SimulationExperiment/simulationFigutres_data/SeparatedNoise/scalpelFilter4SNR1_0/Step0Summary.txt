@@ -1,0 +1,11 @@
+Step 0 of SCALPEL
+
+SUMMARY
+We found 1 raw data file, which had 1000 frames. Thus 1 processed data file with 1000 frames was produced. The video has a height of 200 and a width of 200. The minimum and maximum values of the raw data were -1 and 2.16, respectively.
+
+ARGUMENTS USED
+Raw data location: Desktop/data/finalY/rep1_SNR1_0/
+Raw data file type: R
+Video height: 200
+Process raw data files separately? Yes
+Output files location: Desktop/data/scalpelFilteradj1_0/

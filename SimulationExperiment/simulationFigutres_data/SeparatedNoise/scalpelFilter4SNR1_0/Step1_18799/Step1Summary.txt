@@ -1,0 +1,14 @@
+Step 1 of SCALPEL
+
+SUMMARY
+We performed image segmentation to produce a total of 245 preliminary dictionary elements, which came from 164 different frames of the video. There are 2721 pixels contained in at least one preliminary dictionary element. The version (i.e., unique identifier) for this run of Step 1 is 18799.
+
+ARGUMENTS USED
+Minimum size of preliminary dictionary element allowed (in pixels): 25
+Maximum size of preliminary dictionary element allowed (in pixels): 500
+Maximum width of preliminary dictionary element allowed (in pixels): 30
+Maximum height of preliminary dictionary element allowed (in pixels): 30
+Threshold values used for image segmentation: 
+0.208
+0.253
+0.297
